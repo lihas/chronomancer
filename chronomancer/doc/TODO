@@ -1,0 +1,24 @@
+BUGS
+====
+
+-- "Find last/next write" over local variables
+-- Hook up "view as type XYZ" menu items
+-- Real icons
+
+FEATURES
+========
+
+-- Queries with condition predicates
+-- Extension point for canned queries
+-- Launching canned queries automatically when certain binaries found
+-- Persistent user annotations for memory locations and events
+-- HTML and XML export of session state
+-- Save/restore of session state
+-- "Select this line" command
+-- "Show next/prev/# iteration" command
+-- Show local variable values in source window
+
+FAR-OUT FEATURES
+================
+
+-- Multilingual debugging
